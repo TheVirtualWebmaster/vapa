@@ -4,7 +4,7 @@
 
 This document outlines the terms of use for the Virtual Autonomous Prompt Assistant (VAPA) framework, including its CORE logic, DATA references, SLOT system, and any associated documentation or materials (collectively referred to as “the Materials”).
 
-These Materials are created by Christopher Bennetts and published by Digital Freedom Alliance (DFA). The official home of these Materials is [Your GitHub Repository URL Here, e.g., https://github.com/yourusername/VAPA].
+These Materials are created by Christopher Bennetts and published by Digital Freedom Alliance (DFA). The official home of these Materials is https://github.com/TheVirtualWebmaster/vapa
 
 The Materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. This choice reflects VAPA's core philosophy: to empower users with control and portability over their AI interactions, fostering a community-driven ecosystem that prioritizes user sovereignty over commercial exploitation.
 
@@ -61,6 +61,6 @@ This distinction is intended to foster innovation and allow VAPA users to build 
 
 If you believe someone is violating these terms, or if you wish to discuss commercial use or obtain specific permissions, please contact:
 
-🌍 Website: [Your Contact Website/Email Here, e.g., https://digitalfreedomalliance.net/contact]
+🌍 Website: https://digitalfreedomalliance.net/contact-us/
 
 By using these Materials, you agree to follow these terms.
