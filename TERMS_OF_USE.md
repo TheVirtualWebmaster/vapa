@@ -30,7 +30,7 @@ The **ShareAlike** condition of the CC BY-NC-SA 4.0 license is crucial for VAPA'
 
 Any use, distribution, or adaptation of the VAPA Materials must include the following attribution:
 
-“This work incorporates concepts and materials from the Virtual Autonomous Prompt Assistant (VAPA) framework by Christopher Bennetts for Digital Freedom Alliance, licensed under CC BY-NC-SA 4.0. Original materials available at [Your GitHub Repository URL Here, e.g., https://github.com/yourusername/VAPA].”
+“This work incorporates concepts and materials from the Virtual Autonomous Prompt Assistant (VAPA) framework by Christopher Bennetts for Digital Freedom Alliance, licensed under CC BY-NC-SA 4.0. Original materials available at https://github.com/TheVirtualWebmaster/vapa.
 
 You may satisfy this condition in any reasonable manner based on the medium, means, and context in which you share the Materials.
 
